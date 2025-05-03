@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-^@j5)b_dqt+wy%ndclcnf4lq+n#d9*5=%w-y5epj)=d&*&o4r&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["blueberry123.pythonanywhere.com","127.0.0.1","localhost","socialpets.up.railway.app"]
+ALLOWED_HOSTS = ["blueberry123.pythonanywhere.com","127.0.0.1","localhost","friends.up.railway.app"]
 
 
 # Application definition
